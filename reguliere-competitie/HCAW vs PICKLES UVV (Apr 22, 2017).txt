@@ -1,0 +1,151 @@
+HCAW 1st 
+HENRIQUE grounded out to 2b (0-2 KKF).
+SELASSA grounded out to 2b (0-2 KKF).
+ROOI grounded out to 2b (2-2 KBBS).
+0 runs, 0 hits, 0 errors, 0 LOB.
+PICKLES UVV 1st 
+BLAAUW singled up the middle (1-0 B).
+TAKKE grounded into double play 2b to 1b (0-0);
+BLAAUW out on the play.
+GOINS singled to center field (1-2 KBF).
+GOINS failed pickoff attempt.
+MARTIS singled to left field (3-2 KBBBF);
+GOINS advanced to second.
+REEM v singled to second base (1-1 BK);
+MARTIS advanced to second;
+GOINS advanced to third, out at home rf to c.
+0 runs, 4 hits, 0 errors, 2 LOB.
+HCAW 2nd 
+DIRKSEN singled to center field (0-1 K).
+WEIJGERTSE popped up to 2b (0-2 KFF).
+TUHUMURY fouled out to 1b (1-0 B).
+ENGELHARDT grounded out to 2b (0-1 K).
+0 runs, 1 hit, 0 errors, 1 LOB.
+PICKLES UVV 2nd 
+BAZUIN struck out looking (3-2 BKFBBK).
+KUIPERS struck out looking (0-2 KKK).
+RUBEN struck out swinging (1-2 KSBS).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 3rd 
+VISSER grounded out to 2b (1-2 FKB).
+KOSTER singled to right field (0-1 K).
+HENRIQUE doubled to right center (1-2 FFFB);
+KOSTER advanced to third.
+SELASSA struck out swinging (0-2 KFS).
+ROOI flied out to rf (0-2 KK).
+0 runs, 2 hits, 0 errors, 2 LOB.
+PICKLES UVV 3rd 
+COMENENCIA grounded out to ss (0-0).
+BLAAUW singled to left field (2-2 BKFB).
+BLAAUW failed pickoff attempt.
+TAKKE singled up the middle (1-0 B);
+BLAAUW advanced to second.
+GOINS grounded into double play 2b to ss to 1b (1-2 BFF);
+TAKKE out on the play.
+0 runs, 2 hits, 0 errors, 1 LOB.
+HCAW 4th 
+DIRKSEN flied out to lf (0-1 F).
+WEIJGERTSE flied out to lf (0-1 K).
+TUHUMURY popped up to 2b (0-1 K).
+0 runs, 0 hits, 0 errors, 0 LOB.
+PICKLES UVV 4th 
+MARTIS popped up to 3b (2-2 KSBB).
+REEM v flied out to lf (1-0 B).
+BAZUIN singled to third base (0-1 K).
+BAZUIN failed pickoff attempt.
+KUIPERS singled up the middle (0-1 F);
+BAZUIN advanced to second.
+RUBEN reached on a fielder's choice to shortstop (0-0);
+KUIPERS out at second ss to 2b.
+0 runs, 2 hits, 0 errors, 2 LOB.
+HCAW 5th 
+ENGELHARDT popped up to ss (0-1 F).
+VISSER flied out to rf (1-2 KKBF).
+KOSTER singled to second base (0-2 KKF).
+HENRIQUE struck out swinging (0-2 FFS).
+0 runs, 1 hit, 0 errors, 1 LOB.
+PICKLES UVV 5th 
+COMENENCIA grounded out to ss (0-0).
+BLAAUW singled to shortstop (2-2 KBBKFF).
+BLAAUW failed pickoff attempt.
+TAKKE grounded out to 2b (1-1 BF);
+BLAAUW advanced to second.
+BLAAUW failed pickoff attempt.
+GOINS struck out swinging, out at first c to 1b (1-2 KBKS).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HCAW 6th 
+SELASSA lined out to rf (1-1 KB).
+ROOI flied out to rf (1-2 KFFB).
+DIRKSEN walked (3-2 BBKFBB).
+WEIJGERTSE grounded out to 3b (1-1 KB).
+0 runs, 0 hits, 0 errors, 1 LOB.
+PICKLES UVV 6th 
+MARTIS singled to center field (0-0).
+MARTIS failed pickoff attempt.
+REEM v popped up to ss (1-2 BSF).
+BAZUIN flied out to rf (0-0).
+MARTIS failed pickoff attempt.
+KUIPERS flied out to rf (0-0).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HCAW 7th 
+TUHUMURY reached on a fielding error by 3b (0-1 F).
+TUHUMURY stole second.
+TUHUMURY failed pickoff attempt.
+ENGELHARDT flied out to cf (1-1 KB);
+TUHUMURY advanced to third, scored on a throwing error by cf, unearned.
+VISSER walked (3-1 BBFBB).
+KOSTER singled through the left side (1-0 B);
+VISSER advanced to second.
+::: Coaching visit to pitcher :::.
+KORTSTAM pinch ran for VISSER.
+HENRIQUE singled to right center, RBI (1-1 FB);
+KOSTER advanced to second;
+KORTSTAM scored.
+SELASSA singled through the right side (0-2 FF);
+HENRIQUE advanced to second;
+KOSTER advanced to third.
+VEEN v to p for ZIJL v.
+ROOI flied out to lf, SF, RBI (3-1 BSBB);
+KOSTER scored, unearned.
+HENRIQUE stole third.
+DIRKSEN grounded out to 3b (2-2 BFBKF).
+3 runs, 3 hits, 2 errors, 2 LOB.
+PICKLES UVV 7th 
+KORTSTAM to dh.
+RUBEN grounded out to ss (2-2 KBKFFBFF).
+COMENENCIA flied out to rf (3-1 BBFB).
+BLAAUW grounded out to 2b (2-1 BBK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 8th 
+WEIJGERTSE grounded out to 3b (2-1 KBB).
+TUHUMURY hit by pitch (0-0).
+TUHUMURY failed pickoff attempt.
+ENGELHARDT reached on a fielder's choice to shortstop (1-0 B);
+TUHUMURY out at second ss to 2b.
+ENGELHARDT assist by lf 3b.
+KORTSTAM doubled down the lf line (0-1 F);
+ENGELHARDT advanced to third, scored on a muffed throw by c, unearned.
+KOSTER flied out to cf (0-0).
+1 run, 1 hit, 1 error, 1 LOB.
+PICKLES UVV 8th 
+NIEKERK to p for TIMMERMANS.
+TAKKE flied out to rf (3-1 KBBB).
+GOINS flied out to lf (1-1 KB).
+MARTIS walked (3-1 BBFBB).
+REEM v grounded out to p (2-1 BKB).
+0 runs, 0 hits, 0 errors, 1 LOB.
+HCAW 9th 
+HENRIQUE out at first 1b to p (3-2 KBFBB).
+SELASSA grounded out to ss (1-1 FB).
+ROOI grounded out to 3b (0-1 K).
+0 runs, 0 hits, 0 errors, 0 LOB.
+PICKLES UVV 9th 
+MEURIS to p for NIEKERK.
+BAZUIN fouled out to 2b (1-1 KB).
+KUIPERS singled to left center (0-0).
+RUBEN singled up the middle (0-0);
+KUIPERS advanced to second.
+COMENENCIA grounded into double play 2b to ss to 1b (0-0);
+RUBEN out on the play.
+0 runs, 2 hits, 0 errors, 1 LOB.
+HCAW 4, PICKLES UVV 0

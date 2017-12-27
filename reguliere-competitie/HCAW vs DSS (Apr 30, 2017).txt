@@ -1,0 +1,220 @@
+HCAW 1st 
+HENRIQUE grounded out to 2b (3-2 BKFBB).
+KOSTER grounded out to 1b unassisted (1-1 KB).
+ROOI doubled to right center (1-1 KB).
+FROLIJK walked (3-2 KKBBFBB);
+ROOI advanced to third on a wild pitch.
+DIRKSEN struck out swinging (1-2 BFFS).
+0 runs, 1 hit, 0 errors, 2 LOB.
+DSS 1st 
+GOUVERNEUR grounded out to 1b unassisted (3-2 BBBKF).
+BOS grounded out to 1b unassisted (1-2 KFB).
+NIEVELD popped up to 2b (1-0 B).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 2nd 
+WEIJGERTSE grounded out to ss (0-0).
+VISSER grounded out to ss (1-0 B).
+ENGELHARDT grounded out to ss (2-2 KFBB).
+0 runs, 0 hits, 0 errors, 0 LOB.
+DSS 2nd 
+WILLIAMS grounded out to ss (1-1 KB).
+ERK v singled to center field (1-1 BK).
+ERK v failed pickoff attempt.
+ILLIS walked (3-1 BFBBB);
+ERK v advanced to second.
+GABRIELS singled to right field (0-0);
+ILLIS advanced to second;
+ERK v advanced to third.
+SANDEN vd S flied out to lf, SF, RBI (1-1 KB);
+ERK v scored.
+ILLIS failed pickoff attempt.
+DAUTZENBERG fouled out to c (0-0).
+1 run, 2 hits, 0 errors, 2 LOB.
+HCAW 3rd 
+KORTSTAM flied out to rf (1-0 B).
+HENRIQUE grounded out to ss (2-1 BBK).
+KOSTER grounded out to ss (0-1 K).
+0 runs, 0 hits, 0 errors, 0 LOB.
+DSS 3rd 
+GOUVERNEUR grounded out to 2b (0-2 FK).
+BOS struck out swinging (1-2 FBFS).
+NIEVELD walked (3-1 KBBBB).
+NIEVELD failed pickoff attempt.
+WILLIAMS flied out to cf (0-2 FK).
+0 runs, 0 hits, 0 errors, 1 LOB.
+HCAW 4th 
+ROOI doubled down the lf line (0-1 K).
+FROLIJK out at first 1b to p (1-1 BF);
+ROOI advanced to third.
+DIRKSEN singled to left field, RBI (1-0 B);
+ROOI scored.
+WEIJGERTSE grounded into double play ss to 2b to 1b (1-2 KBF);
+DIRKSEN out on the play.
+1 run, 2 hits, 0 errors, 0 LOB.
+DSS 4th 
+ERK v struck out swinging (1-2 KKFBS).
+ILLIS singled through the left side (1-2 SFFB).
+ILLIS failed pickoff attempt.
+ILLIS stole second.
+GABRIELS reached on a fielder's choice to shortstop (2-2 SSBB);
+ILLIS out at third ss to 3b.
+SANDEN vd S grounded out to 3b (0-0).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HCAW 5th 
+VISSER walked (3-2 SBBFBFB).
+ENGELHARDT out at first 1b to 2b (0-0);
+VISSER advanced to second.
+KORTSTAM struck out swinging (1-2 KBFFFS).
+HENRIQUE doubled down the rf line, RBI (0-0);
+VISSER scored.
+HENRIQUE advanced to third on a muffed throw by 2b, assist by p, caught stealing.
+KOSTER grounded out to ss (1-0 B).
+1 run, 1 hit, 1 error, 1 LOB.
+DSS 5th 
+DAUTZENBERG singled to shortstop (0-2 KS).
+DAUTZENBERG failed pickoff attempt.
+GOUVERNEUR walked (3-1 BBFBB);
+DAUTZENBERG advanced to second.
+BOS out at first p to 2b, SAC (0-0);
+GOUVERNEUR advanced to second;
+DAUTZENBERG advanced to third.
+NIEVELD struck out swinging (1-2 KKBS).
+WILLIAMS intentionally walked (3-0 BBBB).
+ERK v grounded out to 2b (0-0).
+0 runs, 1 hit, 0 errors, 3 LOB.
+HCAW 6th 
+ROOI walked (3-0 BBBB).
+FROLIJK walked (3-1 BBBKB);
+ROOI advanced to second.
+::: Coaching visit pitcher :::.
+DIRKSEN singled through the left side, advanced to second on the throw, RBI (1-1 BK);
+FROLIJK advanced to third;
+ROOI scored.
+BOMBERG to p for BREEK.
+WEIJGERTSE grounded out to ss (1-2 FFBF).
+VISSER popped up to 2b (2-0 BB).
+ENGELHARDT reached on a fielding error by 3b (1-2 KBF);
+DIRKSEN advanced to third on the error;
+FROLIJK scored on the error, unearned.
+KORTSTAM walked (3-0 BBBB);
+ENGELHARDT advanced to second.
+HENRIQUE walked, RBI (3-1 KBBBB);
+KORTSTAM advanced to second;
+ENGELHARDT advanced to third;
+DIRKSEN scored, unearned.
+::: Coaching visit to pitcher :::.
+KOSTER singled to third base, RBI (0-1 K);
+HENRIQUE advanced to second;
+KORTSTAM advanced to third;
+ENGELHARDT scored, unearned.
+ROOI flied out to rf (1-0 B).
+4 runs, 2 hits, 1 error, 3 LOB.
+DSS 6th 
+ILLIS walked (3-2 BFBSBFFB).
+ILLIS stole second.
+GABRIELS walked (3-2 FSBFBBFB).
+::: Coaching visit to pitcher :::.
+VORK to p for DELEMARRE.
+ILLIS stole third.
+SANDEN vd S walked (3-1 BBBSB);
+GABRIELS advanced to second.
+DAUTZENBERG flied out to rf (0-0).
+GOUVERNEUR reached on a fielder's choice to shortstop, RBI (2-0 BB);
+SANDEN vd S out at second ss to 2b;
+GABRIELS advanced to third;
+ILLIS scored.
+GOUVERNEUR stole second;
+GABRIELS scored on a fielding error by 2b, unearned.
+BOS flied out to cf (2-1 BBK).
+2 runs, 0 hits, 1 error, 1 LOB.
+HCAW 7th 
+FROLIJK walked (3-1 BBBKB).
+DIRKSEN reached on a fielder's choice to shortstop (3-2 KBKFFBB);
+FROLIJK out at second ss to 2b.
+WEIJGERTSE singled through the right side (0-1 K);
+DIRKSEN advanced to second.
+TUHUMURY pinch ran for DIRKSEN.
+VISSER reached on a fielder's choice to first base (0-2 FF);
+WEIJGERTSE out at second 1b to ss;
+TUHUMURY advanced to third, scored on a throwing error by ss, unearned.
+ENGELHARDT grounded out to 2b (2-1 BFB).
+1 run, 1 hit, 1 error, 1 LOB.
+DSS 7th 
+TUHUMURY to cf.
+KORTSTAM to lf.
+GRONINGEN v to p for VORK.
+NIEVELD hit by pitch (0-0).
+WILLIAMS flied out to rf (0-2 KK).
+ERK v singled through the right side (2-2 KFFBB);
+NIEVELD advanced to second.
+ILLIS walked (3-2 BFBKBFB);
+ERK v advanced to second;
+NIEVELD advanced to third.
+ILLIS advanced to second on a wild pitch;
+ERK v advanced to third on a wild pitch;
+NIEVELD scored on a wild pitch.
+GABRIELS walked (3-1 BBFBB).
+::: Coaching visit to pitcher :::.
+MEURIS to p for GRONINGEN v.
+SANDEN vd S flied out to cf, SF, RBI (1-0 B);
+ERK v scored.
+DAUTZENBERG singled up the middle, RBI (3-1 BBFB);
+GABRIELS advanced to third;
+ILLIS scored.
+DAUTZENBERG stole second.
+DAUTZENBERG advanced to third on a wild pitch;
+GABRIELS scored on a wild pitch.
+GOUVERNEUR flied out to lf (2-2 FBSB).
+4 runs, 2 hits, 0 errors, 1 LOB.
+HCAW 8th 
+KORTSTAM struck out swinging (3-2 BKBKBFS).
+HENRIQUE grounded out to p, bunt (1-1 KB).
+KOSTER lined out to 2b (1-1 KB).
+0 runs, 0 hits, 0 errors, 0 LOB.
+DSS 8th 
+KAREL to p for MEURIS.
+BOS out at first rf to 1b (1-0 B).
+NIEVELD singled to left center (0-0).
+WILLIAMS out at first rf to 1b (0-2 FKF);
+NIEVELD advanced to second.
+ERK v flied out to ss (2-1 BBF).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HCAW 9th 
+ROOI struck out swinging (2-2 BKBKS).
+FROLIJK struck out swinging to catcher (1-2 FFBS).
+TUHUMURY walked (3-2 BBBKSFB).
+TUHUMURY stole second.
+WEIJGERTSE hit by pitch (1-2 BFF).
+::: Coaching visit to pitcher :::.
+VISSER hit by pitch (0-0);
+WEIJGERTSE advanced to second;
+TUHUMURY advanced to third.
+VOGELAAR to p for BOMBERG.
+ENGELHARDT flied out to cf (1-1 KB).
+0 runs, 0 hits, 0 errors, 3 LOB.
+DSS 9th 
+ILLIS grounded out to ss (1-1 KB).
+GABRIELS walked (3-1 SBBBB).
+SANDEN vd S struck out swinging (0-2 FFS).
+DAUTZENBERG lined out to ss (1-0 B).
+0 runs, 0 hits, 0 errors, 1 LOB.
+HCAW 10th 
+KORTSTAM flied out to rf (0-1 K).
+HENRIQUE grounded out to 2b (2-1 BBK).
+KOSTER singled through the right side (0-1 K).
+ROOI singled to right center (1-1 KB);
+KOSTER advanced to second.
+FROLIJK singled through the right side (0-0);
+ROOI advanced to second;
+KOSTER advanced to third, out at home rf to c.
+0 runs, 3 hits, 0 errors, 2 LOB.
+DSS 10th 
+GOUVERNEUR walked (3-0 BBBB).
+GOUVERNEUR failed pickoff attempt.
+BOS out at first 1b to 2b, SAC (1-0 B);
+GOUVERNEUR advanced to second.
+GOUVERNEUR advanced to third on a wild pitch.
+NIEVELD singled up the middle, RBI (2-0 BB);
+GOUVERNEUR scored.
+1 run, 1 hit, 0 errors, 1 LOB.
+DSS 8, HCAW 7

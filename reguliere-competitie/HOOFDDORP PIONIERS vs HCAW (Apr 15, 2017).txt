@@ -1,0 +1,151 @@
+HOOFDDORP PIONIERS 1st 
+LEONORA grounded out to ss (0-0).
+PAAP grounded out to p (2-1 BBK).
+MARLIN grounded out to ss (0-0).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 1st 
+HENRIQUE flied out to cf (1-1 KB).
+TUHUMURY flied out to lf (1-0 B).
+ROOI popped up to 2b (1-2 KBK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HOOFDDORP PIONIERS 2nd 
+ARENDS grounded out to 2b (1-2 KKB).
+CUBA de singled to second base (1-2 FKFB).
+CUBA de failed pickoff attempt.
+NIJHOF singled down the lf line (2-1 BFB);
+CUBA de advanced to second.
+BAKKER struck out swinging (1-2 KBFS).
+FROLIJK flied out to cf (0-0).
+0 runs, 2 hits, 0 errors, 2 LOB.
+HCAW 2nd 
+DIRKSEN grounded out to ss (1-1 KB).
+WEIJGERTSE singled up the middle (2-2 BKBFF).
+WEIJGERTSE failed pickoff attempt.
+VISSER struck out swinging (1-2 SFBFS).
+SELASSA grounded out to 1b unassisted (1-1 BF).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HOOFDDORP PIONIERS 3rd 
+NUIJTEN flied out to rf (0-2 KF).
+LEONORA grounded out to 3b (1-2 KFFB).
+PAAP grounded out to p (2-2 FBKFB).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 3rd 
+KOSTER singled to right field (1-0 B).
+KOSTER failed pickoff attempt.
+KORTSTAM reached on a fielder's choice to pitcher, bunt (1-1 FB);
+KOSTER out at second p to ss.
+KORTSTAM failed pickoff attempt.
+HENRIQUE grounded out to 2b (1-1 KB);
+KORTSTAM advanced to second.
+KORTSTAM stole third, scored on a wild pitch.
+TUHUMURY flied out to cf (3-2 FSBBB).
+1 run, 1 hit, 0 errors, 0 LOB.
+HOOFDDORP PIONIERS 4th 
+MARLIN singled to right field (0-0).
+MARLIN failed pickoff attempt.
+ARENDS grounded into double play p to ss to 1b (1-2 KKB);
+MARLIN out on the play, assist by 2b.
+CUBA de struck out looking (2-2 BBFSK).
+0 runs, 1 hit, 0 errors, 0 LOB.
+HCAW 4th 
+ROOI walked (3-1 KBBBB).
+DIRKSEN grounded into double play 3b to 2b to 1b (0-2 KK);
+ROOI out on the play.
+WEIJGERTSE walked (3-1 BFBBB).
+WEIJGERTSE failed pickoff attempt.
+VISSER struck out swinging (2-2 BBFSFFFS).
+0 runs, 0 hits, 0 errors, 1 LOB.
+HOOFDDORP PIONIERS 5th 
+NIJHOF grounded out to 3b (2-0 BB).
+BAKKER popped up to ss (1-1 KB).
+FROLIJK singled up the middle (0-2 KK).
+FROLIJK failed pickoff attempt.
+NUIJTEN grounded out to ss (1-2 BKF).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HCAW 5th 
+SELASSA grounded out to p, bunt (0-0).
+KOSTER struck out swinging (1-2 KKBS).
+KORTSTAM flied out to rf (1-0 B).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HOOFDDORP PIONIERS 6th 
+LEONORA grounded out to ss (1-1 KB).
+PAAP flied out to cf (1-1 KB).
+MARLIN flied out to cf (0-0).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 6th 
+HENRIQUE struck out looking (1-2 KSBK).
+TUHUMURY grounded out to ss (2-2 BKBS).
+ROOI hit by pitch (0-2 KS).
+DIRKSEN doubled down the lf line, RBI (0-0);
+ROOI scored.
+WEIJGERTSE struck out looking (1-2 BFFK).
+1 run, 1 hit, 0 errors, 1 LOB.
+HOOFDDORP PIONIERS 7th 
+ARENDS singled to shortstop (0-0).
+ARENDS failed pickoff attempt.
+CUBA de walked (3-0 BBBB);
+ARENDS advanced to second.
+::: Coaching visit to pitcher :::.
+NIJHOF reached on a fielder's choice to shortstop (1-1 BF);
+CUBA de out at second ss to 2b;
+ARENDS advanced to third.
+NIJHOF out at second c to ss, caught stealing.
+BAKKER struck out swinging, out at first c to 1b (2-2 FKBBS).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HCAW 7th 
+VISSER grounded out to 3b (0-1 F).
+SELASSA lined out to 2b (0-0).
+KOSTER lined out to p (2-1 KBB).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HOOFDDORP PIONIERS 8th 
+FROLIJK struck out swinging (1-2 KBSS).
+NUIJTEN struck out looking (0-2 SFK).
+LEONORA flied out to cf (0-0).
+0 runs, 0 hits, 0 errors, 0 LOB.
+HCAW 8th 
+KORTSTAM grounded out to ss (0-0).
+HENRIQUE grounded out to 2b (0-1 K).
+::: Coaching visit to pitcher :::.
+RIETEL to p for PFAU.
+TUHUMURY singled to shortstop (2-2 KSBB).
+ROOI struck out looking (1-2 KSBK).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HOOFDDORP PIONIERS 9th 
+PAAP singled through the left side (2-2 BFBF).
+::: Coaching visit to pitcher :::.
+KAREL to p for TIMMERMANS.
+PAAP failed pickoff attempt.
+MARLIN flied out to lf (1-2 KBF).
+ARENDS singled through the left side (3-2 BBSFB);
+PAAP advanced to second.
+SMIT pinch ran for ARENDS.
+CUBA de homered to right field, 3 RBI (1-1 BK);
+SMIT scored;
+PAAP scored.
+NIJHOF walked (3-0 BBBB).
+NIJHOF failed pickoff attempt.
+BAKKER walked (3-1 BBKBB);
+NIJHOF advanced to second.
+::: Coaching visit to pitcher :::.
+VORK to p for KAREL.
+FROLIJK singled through the right side (1-1 SB);
+BAKKER advanced to second;
+NIJHOF advanced to third.
+NUIJTEN flied out to rf, SF, RBI (2-2 BFBKF);
+BAKKER advanced to third;
+NIJHOF scored.
+LEONORA grounded out to ss (0-2 KF).
+4 runs, 4 hits, 0 errors, 2 LOB.
+HCAW 9th 
+MARLIN to 1b.
+SMIT to cf.
+NIJHOF to lf.
+DIRKSEN singled to shortstop (2-1 KBB).
+WEIJGERTSE flied out to lf (1-1 BK).
+FROLIJK pinch hit for VISSER.
+FROLIJK grounded out to p (0-1 K);
+DIRKSEN advanced to second.
+::: Coaching visit to pitcher :::.
+SELASSA popped up to ss (0-1 K).
+0 runs, 1 hit, 0 errors, 1 LOB.
+HOOFDDORP PIONIERS 4, HCAW 2

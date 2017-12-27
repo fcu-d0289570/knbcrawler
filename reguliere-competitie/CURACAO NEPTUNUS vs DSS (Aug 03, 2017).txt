@@ -1,0 +1,168 @@
+CURACAO NEPTUNUS 1st 
+MEER vd hit by pitch (0-2 KF).
+DILLE grounded out to p, SAC (0-0);
+MEER vd advanced to second.
+BOEKHOUDT struck out swinging (2-2 BBKSS).
+KEMP D doubled down the lf line, RBI (1-0 B);
+MEER vd scored.
+DIAZ flied out to lf (2-0 BB).
+1 run, 1 hit, 0 errors, 1 LOB.
+DSS 1st 
+NIEVELD grounded out to ss (2-2 KBKB).
+GOUVERNEUR homered down the lf line, RBI (1-0 B).
+WILLIAMS walked (3-2 BBKFBB).
+APPELMAN grounded into double play 2b to ss to 1b (1-0 B);
+WILLIAMS out on the play.
+1 run, 1 hit, 0 errors, 0 LOB.
+CURACAO NEPTUNUS 2nd 
+FERNANDES struck out looking (3-2 BBKBFK).
+VERKERK struck out swinging (0-2 KKS).
+MULLER walked (3-1 BKBBB).
+DAANTJI singled through the left side (0-0);
+MULLER advanced to second.
+MEER vd doubled to left center, 2 RBI (1-0 B);
+DAANTJI scored;
+MULLER scored.
+DILLE popped up to 2b (0-2 FF).
+2 runs, 2 hits, 0 errors, 1 LOB.
+DSS 2nd 
+SANDEN vd S struck out looking (2-2 KBFBFK).
+PIETER flied out to cf (1-2 KBFF).
+SANDEN vd T grounded out to ss (1-2 BKFF).
+0 runs, 0 hits, 0 errors, 0 LOB.
+CURACAO NEPTUNUS 3rd 
+BOEKHOUDT struck out swinging (3-2 BSBBSS).
+KEMP D grounded out to 3b (0-1 K).
+DIAZ flied out to lf (3-2 BBBKK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+DSS 3rd 
+GABRIELS flied out to ss (0-0).
+BOS flied out to cf (0-1 K).
+NIEVELD struck out looking (2-2 BBKFK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+CURACAO NEPTUNUS 4th 
+FERNANDES grounded out to ss (0-0).
+VERKERK struck out swinging (0-2 KSS).
+MULLER popped up to ss (1-2 BFK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+DSS 4th 
+GOUVERNEUR lined out to 3b (0-1 K).
+WILLIAMS struck out swinging (1-2 KFFBS).
+APPELMAN struck out looking (0-2 KFK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+CURACAO NEPTUNUS 5th 
+DAANTJI singled through the left side (0-1 K).
+DAANTJI failed pickoff attempt.
+MEER vd struck out swinging (0-2 KKS).
+DAANTJI out at second c to 2b, caught stealing.
+DILLE singled up the middle (3-2 SBBBF).
+DILLE stole second.
+BOEKHOUDT grounded out to 1b unassisted (3-2 BKBSB).
+0 runs, 2 hits, 0 errors, 1 LOB.
+DSS 5th 
+SANDEN vd S walked (3-2 BFBBFFB).
+SANDEN vd S failed pickoff attempt.
+PIETER grounded into double play 3b to 2b to 1b (2-2 KBKB);
+SANDEN vd S out on the play.
+SANDEN vd T grounded out to 2b (2-2 KBBK).
+0 runs, 0 hits, 0 errors, 0 LOB.
+CURACAO NEPTUNUS 6th 
+KEMP D popped up to 2b (0-0).
+DIAZ grounded out to ss (2-1 BBF).
+FERNANDES grounded out to 3b (1-1 KB).
+0 runs, 0 hits, 0 errors, 0 LOB.
+DSS 6th 
+KOEDIJK to rf for DIAZ.
+GABRIELS struck out looking (3-2 BSBBKK).
+BOS singled to right center (1-2 BFK).
+BOS out at second p to 1b to ss, caught stealing, picked off.
+NIEVELD hit by pitch (2-1 KBB).
+GOUVERNEUR struck out swinging (0-2 KKS).
+0 runs, 1 hit, 0 errors, 1 LOB.
+CURACAO NEPTUNUS 7th 
+NIEVELD to lf.
+ERK v to 1b for GOUVERNEUR.
+PIETER to cf.
+LINGEN v to p for CORNELISSE.
+VERKERK flied out to rf (1-2 BFF).
+MULLER doubled down the lf line (1-0 B).
+DAANTJI flied out to cf (0-0).
+MEER vd singled up the middle, advanced to second on the throw, RBI (1-1 KB);
+MULLER scored.
+DILLE doubled down the rf line, RBI (1-1 KB);
+MEER vd scored.
+BOEKHOUDT struck out looking (2-2 BBKSK).
+2 runs, 3 hits, 0 errors, 1 LOB.
+DSS 7th 
+WILLIAMS struck out looking (2-2 KBFBK).
+APPELMAN struck out looking (0-2 KFK).
+SANDEN vd S singled through the left side (3-1 BKBB).
+SANDEN vd S failed pickoff attempt.
+PIETER walked (3-1 SBBBB);
+SANDEN vd S advanced to second.
+::: Coaching visit to pitcher :::.
+PIETER advanced to second on a throwing error by p, failed pickoff attempt;
+SANDEN vd S scored on the error, unearned.
+SANDEN vd T grounded out to ss (1-2 BFF).
+1 run, 1 hit, 1 error, 1 LOB.
+CURACAO NEPTUNUS 8th 
+NIEVELD to 3b.
+DAUTZENBERG to lf for APPELMAN.
+KEMP D doubled to center field (0-0).
+KOEDIJK struck out swinging (1-2 BSFS).
+FERNANDES flied into double play lf to 2b (1-0 B);
+KEMP D out on the play.
+0 runs, 1 hit, 0 errors, 0 LOB.
+DSS 8th 
+RAAP to c for BOEKHOUDT.
+MIL v to p for MARKWELL.
+GABRIELS struck out swinging (1-2 FBKS).
+BOS struck out looking (1-2 BKSFK).
+NIEVELD walked (3-2 KBBBKB).
+ERK v hit by pitch (1-2 BKF);
+NIEVELD advanced to second.
+HALDERMAN K pinch hit for WILLIAMS.
+HALDERMAN K struck out looking (1-2 KKFBK).
+0 runs, 0 hits, 0 errors, 2 LOB.
+CURACAO NEPTUNUS 9th 
+HALDERMAN K to dh.
+VOGELAAR to p for LINGEN v.
+VERKERK singled through the right side (0-0).
+MULLER singled to third base (1-1 SB);
+VERKERK advanced to second.
+DAANTJI reached on a fielder's choice to right field (0-0);
+MULLER advanced to second;
+VERKERK out at third rf to 3b.
+MEER vd singled to right field, RBI (2-1 BBF);
+DAANTJI advanced to third;
+MULLER scored.
+DILLE singled up the middle, RBI (2-2 BFBF);
+MEER vd advanced to second;
+DAANTJI scored.
+::: Coaching visit to pitcher :::.
+RAAP singled up the middle, RBI (0-1 K);
+DILLE advanced to second;
+MEER vd scored.
+KEMP D hit by pitch (0-2 KF);
+RAAP advanced to second;
+DILLE advanced to third.
+KOEDIJK hit by pitch, RBI (3-2 FBBKBF);
+KEMP D advanced to second;
+RAAP advanced to third;
+DILLE scored.
+::: Coaching visit to pitcher :::.
+NIEVELD to p.
+HALDERMAN K to 3b.
+/  for VOGELAAR.
+FERNANDES struck out looking (0-2 KKK).
+VERKERK fouled out to c (3-2 FBFBB).
+4 runs, 5 hits, 0 errors, 3 LOB.
+DSS 9th 
+KEMP D to rf.
+DRIEL v to p for KOEDIJK.
+/ for MIL v.
+DAUTZENBERG grounded out to ss (1-0 B).
+SANDEN vd S struck out looking (1-2 SKBK).
+PIETER struck out swinging (1-2 SBSS).
+0 runs, 0 hits, 0 errors, 0 LOB.
+CURACAO NEPTUNUS 9, DSS 2
